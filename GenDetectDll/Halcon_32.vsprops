@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="gb2312"?>
+<VisualStudioPropertySheet
+	ProjectType="Visual C++"
+	Version="8.00"
+	Name="Halcon_32"
+	>
+	<Tool
+		Name="VCCLCompilerTool"
+		AdditionalIncludeDirectories="$(HALCONROOT)\include;$(HALCONROOT)\include\cpp;"
+	/>
+	<Tool
+		Name="VCLinkerTool"
+		AdditionalLibraryDirectories="$(HALCONROOT)\lib\x86-win32;"
+	/>
+</VisualStudioPropertySheet>
