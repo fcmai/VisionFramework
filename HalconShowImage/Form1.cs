@@ -13,7 +13,7 @@ namespace HalconShowImage
     {
         public Form1()
         {
-              InitializeComponent(     );
+            InitializeComponent(     );
         }
 
         private void btnShow_Click(object sender, EventArgs e)
