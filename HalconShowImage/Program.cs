@@ -11,7 +11,7 @@ namespace HalconShowImage
         /// 应用程序的主入口点。
         /// </summary>
         [STAThread]
-        static void Main()
+        static void Main(   )
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
